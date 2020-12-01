@@ -1,0 +1,12 @@
+.fullVertical{
+    height: 90vh;
+}
+.colored{
+    background-color: #cccccc;
+}
+.displayMatter{
+    display: grid;
+}
+.semiVertical{
+    height: 81vh;
+}
